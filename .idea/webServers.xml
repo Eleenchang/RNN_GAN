@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="sftp://kimth@115.145.162.87:27409/usr/bin/python3" name="sftp://kimth@115.145.162.87:27409/usr/bin/python3">
+        <fileTransfer host="115.145.162.87" port="27409" rootFolder="/home/kimth" accessType="SFTP">
+          <option name="port" value="27409" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
